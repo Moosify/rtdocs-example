@@ -9,6 +9,7 @@ First code
 ----------
 
 This is a good start of coding::
+
     def hello():
         print("Hello world!")
 
@@ -16,6 +17,7 @@ Table tests
 ^^^^^^^^^^^
 
 Table testing
+
 ====== ======
 No.    Prime
 ====== ======
